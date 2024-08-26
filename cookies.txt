@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.michaonsol.com	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	07aa0a0b-bce9-48ac-612c-5edb8a32f666
+www.michaonsol.com	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2024-06-04 03:55:11.228115673 +0000 UTC m=+1885140.779348597"
+www.michaonsol.com	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.michaonsol.com	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	1
+
